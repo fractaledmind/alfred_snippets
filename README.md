@@ -8,7 +8,7 @@ Simple, document-specific text snippets
  
 Download on Packal
 
- 
+![demo](snippets.gif)
  
  
 Have you ever been taking notes and realized that certain terms or phrases were going to be used repeatedly? You don't have the time or really the desire to create all new TextExpander snippets for these terms or phrases, but you'd also really like to shorten your typing. That's where `Snippets` comes in. `Snippets` is a dead simple Alfred workflow that allows you to use simple snippet syntax while writing, and then seamlessly convert your text to its full glory.
