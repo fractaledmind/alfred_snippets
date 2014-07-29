@@ -24,7 +24,7 @@ a: Alfred
 ```
 That's all there is to it. Once your dictionary is complete and you have finished typing, either copy the text to the clipboard and use the keyword `snip`, or assign a keyboard shortcut for even quicker results. When you activate `Snippets`, the text above will instantly become:
 ```
-This is an example of \`Snippets\`. \`Snippets\` is a fantastic workflow for Alfred!
+This is an example of `Snippets`. `Snippets` is a fantastic workflow for Alfred!
 ```
 It's so simple. Double-comma before the snippet; dictionary wrapped in triple-carets with snippet: expanded. Nothing more, nothing less.
 
